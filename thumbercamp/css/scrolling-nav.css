@@ -49,3 +49,7 @@ section {
   background-size: cover;
   height: 600px;
 }
+
+.navbar-brand {
+	max-width: 50%;
+}
