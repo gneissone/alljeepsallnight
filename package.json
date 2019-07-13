@@ -1,0 +1,19 @@
+{
+  "name": "all-jeeps-site",
+  "version": "1.0.0",
+  "description": "Just a normal website for a normal ultimate team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gneissone/alljeepsallnight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gneissone/alljeepsallnight/issues"
+  },
+  "homepage": "https://github.com/gneissone/alljeepsallnight#readme"
+}
