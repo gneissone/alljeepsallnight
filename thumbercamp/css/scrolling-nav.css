@@ -57,6 +57,10 @@ section {
   background-size: cover;
 }
 
+#activities {
+  color: white;
+}
+
 .navbar-brand {
 	max-width: 50%;
 }
