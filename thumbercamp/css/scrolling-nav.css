@@ -61,6 +61,10 @@ section {
   color: white;
 }
 
+.navbar {
+	background-color: #000;
+}
+
 .navbar-brand {
 	max-width: 50%;
 }
